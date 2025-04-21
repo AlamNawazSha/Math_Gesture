@@ -1,6 +1,6 @@
 # You have to downlaed old version of python which is 3.10.0
 # and import all the packegs like mediapipe cvzone cv2 ect..
-
+# https://youtu.be/RhhN0CLnFdc?si=6DlAiyOfdEWQgwye this youtude link
 import cvzone
 import cv2
 from cvzone.HandTrackingModule import HandDetector
